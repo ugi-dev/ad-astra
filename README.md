@@ -6,7 +6,7 @@ Ad Astra's space-inspired design not only helps you focus on your work and incre
 
 The carefully selected contrasting blue and lavender colors improve readability and make your code stand out, while the darker background reduces eye strain and fatigue during long coding sessions.
 
-<a href="https://marketplace.visualstudio.com/items?itemName=ugistelmokaitis.ad-astra"><strong>Install →</strong></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=ugi-dev.ad-astra"><strong>Install →</strong></a>
 
 ## Hide Indent Guides
 
