@@ -3,12 +3,12 @@
   "displayName": "Ad Astra",
   "description": "A dark theme for VS Code",
   "version": "1.0.0",
-  "publisher": "ugistelmokaitis",
+  "publisher": "ugi-dev",
   "license": "MIT",
   "homepage": "https://ugi.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ugistelmokaitis/ad-astra"
+    "url": "https://github.com/ugi-dev/ad-astra"
   },
   "icon": "icon.png",
   "keywords": [
@@ -16,7 +16,7 @@
     "dark",
     "vscode",
     "ad astra",
-    "ugistelmokaitis"
+    "ugi-dev"
   ],
   "engines": {
     "vscode": "^1.76.0"
@@ -29,7 +29,7 @@
       {
         "label": "Ad Astra",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ad Astra-color-theme.json"
+        "path": "./themes/Ad-Astra-color-theme.json"
       }
     ]
   }
