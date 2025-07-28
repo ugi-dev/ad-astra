@@ -11,6 +11,7 @@
 		"editor.selectionBackground": "#FFFFFF25",
 		"editor.selectionHighlightBackground": "#FFFFFF25",
 		"editorLineNumber.foreground": "#505050",
+		"editor.lineHighlightBorder": "#111111",
 		"editorGroupHeader.tabsBackground": "#111111",
 		"editorWarning.foreground": "#FBADFF",
 		"editorError.foreground": "#C74E39",
