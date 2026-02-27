@@ -4,6 +4,13 @@ All notable changes to the "ad-astra" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.0.1] - 2026-02-27
+
+### Changed
+
+- Enhance `Ad Astra Light` theme styling for the Command Center and menubar for better visual consistency
+- Update README to reflect latest theme support and usage
+
 ## [2.0.0] - 2026-02-27
 
 ### Changed
