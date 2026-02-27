@@ -1,8 +1,8 @@
 {
   "name": "ad-astra",
   "displayName": "Ad Astra",
-  "description": "A dark theme for VS Code",
-  "version": "1.2.3",
+  "description": "Dark and light themes for VS Code and Cursor",
+  "version": "1.3.0",
   "publisher": "ugi-dev",
   "license": "MIT",
   "homepage": "https://ugi.dev",
@@ -14,10 +14,15 @@
   "keywords": [
     "theme",
     "dark",
+    "light",
     "vscode",
     "ad astra",
     "ugi-dev"
   ],
+  "scripts": {
+    "package": "vsce package",
+    "test": "code --extensionDevelopmentPath=."
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -27,9 +32,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ad Astra",
+        "label": "Ad Astra Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ad-Astra-color-theme.json"
+        "path": "./themes/ad-astra-dark-theme.json"
+      },
+      {
+        "label": "Ad Astra Light",
+        "uiTheme": "vs",
+        "path": "./themes/ad-astra-light-theme.json"
       }
     ]
   }

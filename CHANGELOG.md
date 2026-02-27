@@ -4,6 +4,13 @@ All notable changes to the "ad-astra" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.0] - 2026-02-26
+
+### Added
+
+- New `Ad Astra Light` theme with a palette matching the dark variant
+- Light-mode UI and syntax colors tuned for better contrast and readability
+
 ## [1.2.3] - 2025-07-28
 
 ### Fixed
