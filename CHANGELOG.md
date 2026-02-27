@@ -4,6 +4,18 @@ All notable changes to the "ad-astra" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.0.0] - 2026-02-27
+
+### Changed
+
+- Promote themes as compatible with both VS Code and Cursor
+- Rename theme JSON files to a consistent `ad-astra-*-theme.json` naming
+- Update theme contributions in `package.json` to point to the new files
+
+### Fixed
+
+- Resolve JSON validation and linting issues in theme files
+
 ## [1.3.0] - 2026-02-26
 
 ### Added
